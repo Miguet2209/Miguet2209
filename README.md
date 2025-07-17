@@ -24,7 +24,8 @@
 
 ## 📂 Featured Projects
 
-- 📈 `IAE CIENFI` — using satellite imagery and urban infrastructure data for GDP prediction (in progress)
+- 📈 `IAE CIENFI` — using satellite imagery and urban infrastructure data for GDP prediction and economic activity index by municipality (in progress)
+- [🔗 View Organization »](https://github.com/IAE-CIENFI)
 - 📊 `Datacienfi` — curated dataset package for Business Analytics courses at Universidad Icesi, focused on practical applications in economics, education, finance, etc (in progress)
 [🔗 View Repository »](https://github.com/Miguet2209/)
 ---
