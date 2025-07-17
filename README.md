@@ -2,7 +2,7 @@
 
 🎓 Economics student at Universidad Icesi  
 📊 Passionate about Data Science applied to economics, public policy, and urban development  
-💻 Currently working with R, Python, and spatial data tools  
+💻 Currently working with R and Python
 
 ---
 
